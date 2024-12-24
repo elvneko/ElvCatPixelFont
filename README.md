@@ -8,8 +8,7 @@ __Elv Cat Pixel__ is a pixel font created for ElvCatDev's game projects.
 
 ### Download
 
-* [elvcatpixel.ttf](elvcatpixel.ttf)
-* [elvcatpixel.otf](elvcatpixel.otf)
+[elvcatpixel.zip](https://github.com/elvcatdev/ElvCatPixelFont/releases/download/v1.0/elvcatpixel.zip)
 
 ### List of supported glyphs
 * Basic Latin / More Latin / Extended Latin A

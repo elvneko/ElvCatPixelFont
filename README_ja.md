@@ -8,8 +8,7 @@ __Elv Cat Pixel__ はElvCatDevのゲームプロジェクトのために作ら�
 
 ### ダウンロードはこちら
 
-* [elvcatpixel.ttf](elvcatpixel.ttf)
-* [elvcatpixel.otf](elvcatpixel.otf)
+[elvcatpixel.zip](https://github.com/elvcatdev/ElvCatPixelFont/releases/download/v1.0/elvcatpixel.zip)
 
 ### サポートしているグリフ
 * Basic Latin / More Latin / Extended Latin A
