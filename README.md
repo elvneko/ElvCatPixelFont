@@ -12,9 +12,8 @@ __Elv Cat Pixel__ is a pixel font created for ElvCatDev's game projects.
 
 ### List of supported glyphs
 * Basic Latin / More Latin / Extended Latin A
-* Number / Basic Symbol
-* Hiragana
-* Katakana
+* Hiragana (Japanese)
+* Katakana (Japanese)
 
 ## LISENCE
 SIL Open Font License
@@ -23,7 +22,7 @@ This font is free for commercial use such as games, applications, videos, etc.
 
 ## USECASE
 
-I tested this fort in my gamedev project.
+I tested this font in my gamedev project.
 
 
 ![The progress of Cat Ball Down](docs/catballdown_basic_player.jpg)
