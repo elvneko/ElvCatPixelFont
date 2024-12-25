@@ -12,11 +12,12 @@ __Elv Cat Pixel__ is a pixel font created for ElvCatDev's game projects.
 
 ### List of supported glyphs
 * Basic Latin / More Latin / Extended Latin A
+* Number / Basic Symbol
 * Hiragana
 * Katakana
 
 ## LISENCE
-CC BY 4.0
+SIL Open Font License
 
 This font is free for commercial use such as games, applications, videos, etc.
 

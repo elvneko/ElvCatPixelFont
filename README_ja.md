@@ -11,18 +11,19 @@ __Elv Cat Pixel__ はElvCatDevのゲームプロジェクトのために作ら�
 [elvcatpixel.ttf](https://github.com/elvcatdev/ElvCatPixelFont/releases/download/v1.0/elvcatpixel.ttf)
 
 ### サポートしているグリフ
-* Basic Latin / More Latin / Extended Latin A
-* Hiragana
-* Katakana
+* アルファベット
+* 数字や基本的な記号
+* ひらがな
+* カタカナ
 
 ## ライセンス
-CC BY 4.0
+SIL Open Font License
 
 ゲームやアプリや動画編集など、無料で商用利用が可能です。
 
 ## 活用事例
 
-現在開発中のゲームプロジェクトで試しに取り込んでみました。
+現在開発中のゲームプロジェクトに試しに組み込んでみました。
 
 
 ![Cat Ball Downの開発進捗](docs/catballdown_basic_player.jpg)
