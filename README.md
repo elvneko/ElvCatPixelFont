@@ -8,7 +8,7 @@ __Elv Cat Pixel__ is a pixel font created for ElvCatDev's game projects.
 
 ### Download
 
-[elvcatpixel.zip](https://github.com/elvcatdev/ElvCatPixelFont/releases/download/v1.0/elvcatpixel.zip)
+[elvcatpixel.ttf](https://github.com/elvcatdev/ElvCatPixelFont/releases/download/v1.0/elvcatpixel.ttf)
 
 ### List of supported glyphs
 * Basic Latin / More Latin / Extended Latin A
@@ -20,7 +20,12 @@ CC BY 4.0
 
 This font is free for commercial use such as games, applications, videos, etc.
 
-*Attribution is required.*
+## USECASE
+
+I tested this fort in my gamedev project.
+
+
+![The progress of Cat Ball Down](docs/catballdown_basic_player.jpg)
 
 ## AUTHOR
 

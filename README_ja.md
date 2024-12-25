@@ -8,7 +8,7 @@ __Elv Cat Pixel__ はElvCatDevのゲームプロジェクトのために作ら�
 
 ### ダウンロードはこちら
 
-[elvcatpixel.zip](https://github.com/elvcatdev/ElvCatPixelFont/releases/download/v1.0/elvcatpixel.zip)
+[elvcatpixel.ttf](https://github.com/elvcatdev/ElvCatPixelFont/releases/download/v1.0/elvcatpixel.ttf)
 
 ### サポートしているグリフ
 * Basic Latin / More Latin / Extended Latin A
@@ -20,7 +20,12 @@ CC BY 4.0
 
 ゲームやアプリや動画編集など、無料で商用利用が可能です。
 
-*ご利用の際はクレジット表記をお願いします。*
+## 活用事例
+
+現在開発中のゲームプロジェクトで試しに取り込んでみました。
+
+
+![Cat Ball Downの開発進捗](docs/catballdown_basic_player.jpg)
 
 ## 作者
 
