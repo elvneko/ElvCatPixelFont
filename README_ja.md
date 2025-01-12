@@ -30,9 +30,9 @@ SIL Open Font License
 
 ## 作者
 
-__ElvCatDev__
+__ElvNeko__
 
-![ElvCatDevのアイコン画像](docs/elvcatdev.jpg)
+![ElvNekoのアイコン画像](docs/author.jpg)
 
 このリポジトリを訪れてくださりありがとうございます。
 個人開発者として生計を立てております、ElvCatDevと申します。
@@ -41,6 +41,6 @@ __ElvCatDev__
 
 ### SNSリンク
 
-* [WEB](https://elvcatdev.com/)
-* [YouTube](https://www.youtube.com/@ElvCatDev)
-* [Bluesky](https://bsky.app/profile/elvcatdev.com)
+* [WEB](https://elvneko.com/)
+* [YouTube](https://www.youtube.com/@ElvNeko)
+* [Bluesky](https://bsky.app/profile/elvneko.com)
